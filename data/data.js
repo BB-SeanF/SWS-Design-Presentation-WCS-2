@@ -37,14 +37,14 @@ export const tocItemInfo = [
         description: "A site is much more than just its homepage. Showcased on these slides are some example interior pages utilizing dummy content to give a rough idea of how the rest of the site will come together with this new design",
 
     },
-     /* {
+      {
         id: 3,
         title: "Block and Specialty Styles",
         frameStart: "7",
         frameEnd: "8",
         description: "These two slides are home to a showcase of the basic building block styles, along with some more specialty purpose styles that come with this new site design",
 
-    }, */
+    }
 ]
 
 export const projectFrames = [
@@ -114,10 +114,10 @@ export const projectFrames = [
         navGraphicToChange: false,
         description:`<p>A school website is more than just the homepage, and as such this presentation includes three different sample interior layouts to preview. Each of these vary in scope and content (though they all use placeholder content), but they are all meant to showcase how interior pages can look with this new site design.</p><p>The last of the provided samples, the "Mixed Row Layout" showcases the flexibilty you'll have with the design. While a landing page isn't right for every page, and a simple layout might not do more engaging content justice, something in the middle might serve a page better.</p><p>Also, immediately apparent here is the lack of a page banner. We understand that sometimes, finding the right or relevant page banner for every single page can be difficult. This type of page "banner" region is another solution for pages that don't actually need a banner, like forms, or deeper sub pages. You may not use this banner design a lot, but it's there for when you need it.</p>`,
     },
-     /*{
+     {
         id:7,
         img:"/images/bs.jpg",
-        height:"4911px",
+        height:"4953px",
         width: "1600px",
         title: "Block Styles",
         frameGroup:3,
@@ -128,14 +128,14 @@ export const projectFrames = [
     {
         id:8,
         img:"/images/ss.jpg",
-        height:"5040px",
+        height:"4243px",
         width: "1600px",
         title: "Specialty Styles",
         frameGroup:3,
         navGraphic: false,
         navGraphicToChange: false,
         description:`<p>Showcased on these last two slides is a library or reference to all of the different building block styles your school will have at their disposal when it comes to building out pages. The first of these pages, entitled "Specialty Styles" shows off more specific use case styles, along with a suite of row styles that will give your school more flexibility in regards to content population. You'll likely to never see a pae utalize all of these styles at once, and seeing them all here can be overwhelming at first, but remember that these slides are just a reference guide to show off design elements, as well as a reference for resources on our end to use when building out the site.</p>`,
-    }  */
+    }  
 ]
 
 export const fixedNavGraphic = {
