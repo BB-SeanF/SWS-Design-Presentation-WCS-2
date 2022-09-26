@@ -40,8 +40,8 @@ export const tocItemInfo = [
       {
         id: 3,
         title: "Block and Specialty Styles",
-        frameStart: "7",
-        frameEnd: "8",
+        frameStart: "6",
+        frameEnd: "7",
         description: "These two slides are home to a showcase of the basic building block styles, along with some more specialty purpose styles that come with this new site design",
 
     }
