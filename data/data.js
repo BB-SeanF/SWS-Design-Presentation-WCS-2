@@ -51,7 +51,7 @@ export const projectFrames = [
     {
         id:1,
         img:"/images/hp1.jpg",
-        height:"3758px",
+        height:"3635px",
         width: "1600px",
         title: "Westminster's New Homepage",
         frameGroup:1,
@@ -63,7 +63,7 @@ export const projectFrames = [
     {
         id:2,
         img:"/images/hp2.jpg",
-        height:"3758px",
+        height:"3635px",
         width: "1600px",
         title: "Homepage Hover/On States",
         frameGroup:1,
@@ -86,7 +86,7 @@ export const projectFrames = [
     {
         id:3,
         img:"/images/lp.jpg",
-        height:"2774px",
+        height:"2729px",
         width: "1600px",
         title: "Sample Layout: Landing Page",
         frameGroup:2,
@@ -97,7 +97,7 @@ export const projectFrames = [
     {
         id:4,
         img:"/images/wlsr.jpg",
-        height:"2149px",
+        height:"2103px",
         width: "1600px",
         title: "Sample Layout: Wide Left, Skinny Right",
         frameGroup:2,
@@ -108,7 +108,7 @@ export const projectFrames = [
     {
         id:5,
         img:"/images/mr.jpg",
-        height:"2573px",
+        height:"2508px",
         width: "1600px",
         title: "Sample Layout: Mixed Row",
         frameGroup:2,
@@ -119,7 +119,7 @@ export const projectFrames = [
      {
         id:6,
         img:"/images/bs.jpg",
-        height:"4953px",
+        height:"4653px",
         width: "1600px",
         title: "Block Styles",
         frameGroup:3,
@@ -130,7 +130,7 @@ export const projectFrames = [
     {
         id:7,
         img:"/images/ss.jpg",
-        height:"4243px",
+        height:"4232px",
         width: "1600px",
         title: "Specialty Styles",
         frameGroup:3,
